@@ -1,0 +1,1 @@
+print("Hello world") # just prints "Hello world'
