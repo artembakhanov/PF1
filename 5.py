@@ -2,7 +2,6 @@ def prime_numbers(N):
     """
     Sieve of Eratosthenes approach is used here.
     Check https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-
     """
     flags = [True] * N
     primes = []
